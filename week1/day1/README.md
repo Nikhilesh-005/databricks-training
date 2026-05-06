@@ -14,8 +14,6 @@ The practice included writing and executing different types of SQL queries such 
 * HAVING Queries
 * ORDER BY Queries
 * JOIN Queries
-* Nested and Correlated Queries
-* Combined Moderate Difficulty Queries
 
 ---
 
@@ -67,18 +65,9 @@ The practice included writing and executing different types of SQL queries such 
 * Table relationships
 * Combining records from multiple tables
 
-### Nested and Correlated Queries
-
-* Subqueries
-* Correlated subqueries
-* IN operator
-* ALL operator
-* MAX(), AVG() inside subqueries
-* Second highest and nth highest salary queries
-
 ### Additional SQL Concepts
 
-* LIMIT and OFFSET
+* LIMIT clause
 * Aliases
 * Aggregate filtering
 * Department-wise analysis
@@ -103,8 +92,6 @@ The practice included writing and executing different types of SQL queries such 
 * having_queries.sql
 * orderby_queries.sql
 * join_queries.sql
-* nested_queries.sql
-* moderate_queries.sql
 
 ---
 
